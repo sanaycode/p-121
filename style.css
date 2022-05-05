@@ -1,0 +1,22 @@
+.test_image_and_result{
+    background-color:grey;
+    border-radius:50px;
+    height: 525px;
+    width:900px;
+    align-self:center;
+    color:white;
+    margin-left: 250px;
+}
+.imageness{
+    height: 350px;
+    width:250px;
+    border-radius: 50px;
+    margin-top: 50px;
+}
+.blare{
+    margin-top: 25px;
+}
+img{
+    height:80px;
+    width:80px;
+}
